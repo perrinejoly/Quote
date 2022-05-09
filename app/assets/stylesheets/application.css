@@ -18,3 +18,9 @@
      background-color: beige;
      font-family : arial;
  }
+
+ .post{
+     background-color : #A1674A;
+     margin : 2% 5%;
+     border : solid 1px #FFFF;
+ }
