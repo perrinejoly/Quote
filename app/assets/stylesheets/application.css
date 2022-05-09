@@ -42,3 +42,14 @@
  .brown{
     background-color : #A1674A;
  }
+
+ a{
+     color: black;
+     text-decoration: none;
+     transition: all 0.3s ease-in-out;
+ }
+
+ a:hover{
+     color: #A1674A;
+ }
+
