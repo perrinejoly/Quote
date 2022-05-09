@@ -4,7 +4,9 @@
 
 <div id="quotes">
   <% @quotes.each do |quote| %>
+    <div class="post">
     <%= render quote %>
+    </div>
     <p>
       <%= link_to "Show this quote", quote %>
     </p>
