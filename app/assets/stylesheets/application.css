@@ -23,6 +23,17 @@
  .post{
      background-color : #A1674A;
      margin : 2% 5%;
-     border : solid 1px #FFFF;
+     border : solid 4px #FFFF;
      color : white;
+     
+ }
+
+ .quotes{
+     background-color : #A1674A;
+     text-align: center;
+ }
+
+ .authors{
+    background-color : #A1674A;
+    text-align:right;
  }
