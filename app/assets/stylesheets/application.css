@@ -37,6 +37,7 @@
     background-color : #A1674A;
     text-align:right;
     margin-right: 3%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
  }
 
  .brown{
@@ -51,5 +52,11 @@
 
  a:hover{
      color: #A1674A;
+ }
+
+ .right-button{
+     text-align: right;
+     margin-right: 3%;
+
  }
 
